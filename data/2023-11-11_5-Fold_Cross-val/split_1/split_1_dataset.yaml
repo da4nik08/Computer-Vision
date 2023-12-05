@@ -1,0 +1,5 @@
+names:
+  0: 0
+path: data/2023-11-11_5-Fold_Cross-val/split_1
+train: train
+val: val
